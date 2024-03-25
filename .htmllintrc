@@ -1,0 +1,18 @@
+{
+    
+    "plugins": [],
+    
+    "indent-width": 2,
+    "line-end-style": false,
+    "indent-style": "spaces",
+    "doctype-first": "smart",
+    "head-req-title": false,
+    "attr-name-style": "dash",
+    "class-style": "dash",
+    "id-class-style": "dash",
+    "tag-bans": false,
+    "img-req-alt": false,
+    "attr-bans": false,
+    "tag-close": true,
+    "tag-name-match": true
+}
